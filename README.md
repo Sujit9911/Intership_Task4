@@ -81,5 +81,5 @@ Recommended items are displayed on the console.
 Conclusion
 
 This project demonstrates core Java concepts along with basic artificial intelligence principles, recommendation logic, and layered MVC design. It provides a strong foundation for understanding how real-world recommendation systems work at a fundamental level using Java
-Sample Output
+Sample Output <img width="1384" height="345" alt="Image" src="https://github.com/user-attachments/assets/4249aa90-eef4-4b7a-b664-c18bb226a066" />
 
